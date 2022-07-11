@@ -9,5 +9,5 @@ CREATE TABLE github_users (
     username VARCHAR NOT NULL,
     email VARCHAR,
     avatar VARCHAR
-)
+);
 
